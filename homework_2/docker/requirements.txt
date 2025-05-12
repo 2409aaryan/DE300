@@ -1,0 +1,7 @@
+duckdb==0.10.2
+pandas
+pyarrow
+matplotlib
+seaborn
+cassandra-driver==3.29.0
+cassandra-datastax-astra
