@@ -1,0 +1,2 @@
+Chat GPT was used to assist me with this HW. 
+I came up with all the ideas to the function myself. Then I would try and code them. And if they were not working, I would ask ChatGPT for help.

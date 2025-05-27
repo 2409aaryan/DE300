@@ -1,0 +1,4 @@
+﻿pyspark==3.5.1
+notebook
+pandas
+numpy
